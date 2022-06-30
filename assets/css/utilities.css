@@ -286,7 +286,7 @@ a {
 .card {
   position: relative;
   display: inline-block;
-  background: #fff;
+  background: #b7ebe5;
   border: 1px solid var(--muted);
   border-radius: 3px;
 }
